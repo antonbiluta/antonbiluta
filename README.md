@@ -1,28 +1,33 @@
-### Всем привет, Я антон - aka [antonbiluta][website] 👋
+### Hi there, I'm Anton - aka [Biluta][website] 👋
 
 [![Website](https://img.shields.io/website?color=1D23&down_message=offline&label=landing%20page&logo=Google%20Earth&logoColor=white&style=for-the-badge&up_message=GO&url=http%3A%2F%2Fantonbiluta.gitlab.io%2Fbiluta%2F)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/antonbiluta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?screen_name=antonbiluta&ref_src=twsrc%5Etfw)
-[![Website](https://img.shields.io/website?color=3f8ae0&down_message=check&label=profile&logo=vk&logoColor=white&style=for-the-badge&up_message=check&url=https%3A%2F%2Fvk.com%2Fanton_biluta)][vk]
 
 
 
-## Я разработчик, музыкант, дизайнер!
+## I'm a developer, musician, designer!
 
-- 🔭 У меня есть другая личность: [немного творчества][vkgroup]!
-- 🌱 Я изучаю всё и вся 🤣
-- 👯 Я хочу больше практиковаться в компаниях
-- 🥅 Цели 2021: Создать больше проектов
-- ⚡ Факт: Я люблю заниматься графическим дизайном и играть на фортепиано
+- 🔭 Another activity: [designer][vkgroup]!
+- 🌱 I'm currently learning everything 🤣
+- 👯 I want to practice more in companies
+- 🥅 2021 Goals: Создать больше проектов
+- ⚡ Fun fact: I love to do graphic design and play the piano
 
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kqach2benl5w47wuijafz4aidm&cover_image=true&theme=novatorem" alt="antonbiluta Spotify Playing" width="350"/>](https://open.spotify.com/user/31kqach2benl5w47wuijafz4aidm)
-### Связаться со мной:
+### Follow Me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)][telegram]
+[![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4680C2)][vk]
+[![Inst](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)][instagram]
+[![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)][twitter]
+
+
+<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://seeklogo.net/wp-content/uploads/2015/11/twitter-logo.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-512.png"/>][vk]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://qazaq1913.com/wp-content/uploads/2019/01/instagram-logo-color-512.png" />](https://www.instagram.com/antonbiluta)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://qazaq1913.com/wp-content/uploads/2019/01/instagram-logo-color-512.png" />](https://www.instagram.com/antonbiluta) -->
 
 <br />
 
@@ -38,7 +43,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 <details>
-  <summary>Frameworks & Library</summary>
+  <summary>Frameworks & Libraries</summary>
 
   ![JavaFX](https://img.shields.io/badge/-javafx-090909?style=for-the-badge&logo=java&logoColor=E77001)
   ![Spring](https://img.shields.io/badge/-spring-090909?style=for-the-badge&logo=spring&logoColor=6DB33F)
@@ -116,6 +121,7 @@
 
 [website]: http://antonbiluta.gitlab.io/biluta/
 [twitter]: https://twitter.com/antonbiluta
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/antonbiluta
 [vk]: https://vk.com/anton_biluta
 [vkgroup]: https://vk.com/bilutastudio
+[telegram]: https://t.me/antonbiluta
