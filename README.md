@@ -78,7 +78,7 @@
 [vkgroup]: https://vk.com/bilutastudio
 [telegram]: https://t.me/antonbiluta
 
-[![antonbiluta stat's](https://github-readme-stats.vercel.app/api/wakatime?username=antonbiluta)](https://github.com/anuraghazra/github-readme-stats)
+![antonbiluta stat's](https://github-readme-stats.vercel.app/api/wakatime?username=antonbiluta&custom_title=How%20much%20Anton%20suffered)
 
 <br>
 
