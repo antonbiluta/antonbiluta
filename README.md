@@ -1,69 +1,38 @@
-### Hi there, I'm Anton - aka [Biluta][website] 👋
+<h1 align="center">Ciao 👋, I'm Anton Biluta</h1>
+<h3 align="center">I'm a developer, musician, designer!</h3>
 
-[![Website](https://img.shields.io/website?color=1D23&down_message=offline&label=landing%20page&logo=Google%20Earth&logoColor=white&style=for-the-badge&up_message=GO&url=http%3A%2F%2Fantonbiluta.gitlab.io%2Fbiluta%2F)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/antonbiluta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?screen_name=antonbiluta&ref_src=twsrc%5Etfw)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=antonbiluta&label=Profile%20views&color=0e75b6&style=flat" alt="antonbiluta" />
+  <a href="https://twitter.com/antonbiluta" target="blank"><img src="https://img.shields.io/twitter/follow/antonbiluta?logo=twitter&style=for-the-badge" alt="antonbiluta" /></a>
 
-
-
-## I'm a developer, musician, designer!
+  <a href="https://github.com/antonbiluta?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/antonbiluta?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
 - 🔭 Another activity: [designer][vkgroup]!
-- 🌱 I'm currently learning everything 🤣
-- 👯 I want to practice more in companies
-- 🥅 2021 Goals: Создать больше проектов
-- ⚡ Fun fact: I love to do graphic design and play the piano
 
-### Spotify Playing 🎧
+- 🌱 I’m currently learning **Solidity, blockchain ETH, NFT**
 
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kqach2benl5w47wuijafz4aidm&cover_image=true&theme=novatorem" alt="antonbiluta Spotify Playing" width="350"/>](https://open.spotify.com/user/31kqach2benl5w47wuijafz4aidm)
-### Follow Me:
+- 📝 I regularly write articles on [blog.biluta.ru](blog.biluta.ru)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)][telegram]
-[![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4680C2)][vk]
-[![Inst](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)][instagram]
-[![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)][twitter]
+- 📫 How to reach me **tosha@biluta.ru**
 
+- 📄 Know about my experiences [https://career.habr.com/antonbiluta](https://career.habr.com/antonbiluta)
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://seeklogo.net/wp-content/uploads/2015/11/twitter-logo.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-512.png"/>][vk]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://qazaq1913.com/wp-content/uploads/2019/01/instagram-logo-color-512.png" />](https://www.instagram.com/antonbiluta) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/antonbiluta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antonbiluta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antonbiluta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonbiluta" height="30" width="40" /></a>
+<a href="https://instagram.com/antonbiluta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonbiluta" height="30" width="40" /></a>
+</p>
 
-<br />
-
-### Languages and Tools:
-
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=EA2D2E)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=005697)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFE469)
-![PSQL](https://img.shields.io/badge/-PgSQL-090909?style=for-the-badge&logo=postgresql&logoColor=31648C)
-![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5&logoColor=E96228)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=3C9CD7)
-![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
-<details>
-  <summary>Frameworks & Libraries</summary>
-
-  ![JavaFX](https://img.shields.io/badge/-javafx-090909?style=for-the-badge&logo=java&logoColor=E77001)
-  ![Spring](https://img.shields.io/badge/-spring-090909?style=for-the-badge&logo=spring&logoColor=6DB33F)
-
-  ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=CC6699)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=563D7C)
-  ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=0769AD)
-
-</details>
-
-<details>
-  <summary>Other</summary>
-
-![GitHub](https://img.shields.io/badge/-GitHub-FFF?style=for-the-badge&logo=GitHub&logoColor=181717)
-![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=FCA121)
-
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-090909?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=9999FF)
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
 
 <!-- #### Языки
@@ -102,26 +71,140 @@
 
 <br />
 
----
-<details>
-  <summary>My GitHub stats</summary>
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antonbiluta&repo=FPM-telegram-bot&theme=dracula)](https://github.com/antonbiluta/FPM-telegram-bot)
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antonbiluta&repo=antonbiluta.github.io&theme=dracula)](https://github.com/antonbiluta/antonbiluta.github.io)
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antonbiluta&repo=TCP-Network&theme=dracula)](https://github.com/antonbiluta/TCP-Network)
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antonbiluta&show_icons=true&theme=radical)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonbiluta&hide=PowerShell,Shell,Batchfile&langs_count=10&layout=compact&theme=flag-india)](https://github.com/antonbilut)
-
-
-</details>
-
 [website]: http://antonbiluta.gitlab.io/biluta/
 [twitter]: https://twitter.com/antonbiluta
 [instagram]: https://www.instagram.com/antonbiluta
 [vk]: https://vk.com/anton_biluta
 [vkgroup]: https://vk.com/bilutastudio
 [telegram]: https://t.me/antonbiluta
+
+[![antonbiluta stat's](https://github-readme-stats.vercel.app/api/wakatime?username=antonbiluta)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+ -->
+<!-- > Tools, languages, and other things that I like to work with.
+ -->
+<!-- <table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      </a>
+      <br>Thanos
+    </td>
+  </tr>
+</table> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonbiluta" alt="antonbiluta" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonbiluta&show_icons=true&locale=en&layout=compact" alt="antonbiluta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonbiluta&show_icons=true&locale=en" alt="antonbiluta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonbiluta&" alt="antonbiluta" /></p>
