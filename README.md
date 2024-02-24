@@ -87,7 +87,9 @@ I am also a pianist and member of the academic council. I have several scientifi
 </details>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=antonbiluta&label=Profile+views&color=0e75b6&style=for-the-badge&base=500&abbreviated=true" alt="antonbiluta" />
-<a href="https://twitter.com/antonbiluta" target="blank"><img src="https://img.shields.io/twitter/follow/antonbiluta?logo=X&style=for-the-badge" alt="antonbiluta" /></a>
-<a href="https://t.me/bilutachannel" target="blank"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fbilutachannel&style=for-the-badge&label=BILLUCCI&color=blue
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=antonbiluta&label=Profile+views&color=0e75b6&style=for-the-badge&base=500&abbreviated=true" alt="antonbiluta" />
+    <a href="https://twitter.com/antonbiluta" target="blank"><img src="https://img.shields.io/twitter/follow/antonbiluta?logo=X&style=for-the-badge" alt="antonbiluta" /></a>
+    <a href="https://t.me/bilutachannel" target="blank"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3Dbilutachannel&style=for-the-badge&label=BILLUCCI&color=blue
 " alt="antonbiluta" /></a>
+</div>
